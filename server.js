@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var db = require('mongoose');
+
 
 
 app.use('/test', function(req, res){
