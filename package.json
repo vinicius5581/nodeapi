@@ -9,9 +9,6 @@
   "author": "vinicius5581",
   "license": "MIT",
   "dependencies": {
-    "bcryptjs": "^2.3.0",
-    "body-parser": "^1.15.0",
-    "express": "^4.13.4",
-    "mongoose": "^4.4.6"
+    "express": "^4.13.4"
   }
 }
