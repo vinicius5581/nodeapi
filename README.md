@@ -1,5 +1,17 @@
 udemy.com/nodejs-api/learn/
 
+
+Steps:
+- Covered the dependencies and prerequisites needed
+- Created a basic route in express
+- Connected to our mongodb database
+- Constructed a route four user creation using express
+
+Next:
+- We need to add sessions
+- We need a way to handle response headers for reasons like CORS and allowing other HTTP methods in our API
+
+
 mkdir nodeapi
 cd nodeapi
 
